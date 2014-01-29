@@ -1,0 +1,11 @@
+age esimated from data found using wolfram alpha: http://www.wolframalpha.com/input/?i=us+age+distribution&lk=4&num=1
+0-22: .31
+22-65: .56
+65+: .13
+
+income estimated from data found using wolfram alpha: http://www.wolframalpha.com/input/?i=us+income+distribution
+High (100k+): .22
+Med (25k-100k): .55
+Low (0k-25k): .23
+
+
